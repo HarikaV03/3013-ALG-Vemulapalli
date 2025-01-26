@@ -4,5 +4,5 @@
 **Name**: Harika Vemulapalli
 **Repo**: 3013 Algorithms Repo
 **Email**: vemulapalliharika25@gmail.com
-<img src=harika.jpg width=150>
+![Alt Txt](harika.jpg)
 
