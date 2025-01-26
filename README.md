@@ -4,4 +4,4 @@
 **Name**: Harika Vemulapalli
 **Repo**: 3013 Algorithms Repo
 **Email**: vemulapalliharika25@gmail.com
-[image alt](https://github.com/HarikaV03/3013-ALG-Vemulapalli/blob/main/My%20Picture.jpg?raw=true)
+![Image](https://github.com/user-attachments/assets/7d532362-b67a-4f5c-90c0-66a92c0ff3b3)
