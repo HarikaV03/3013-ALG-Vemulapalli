@@ -4,5 +4,5 @@
 **Name**: Harika Vemulapalli
 **Repo**: 3013 Algorithms Repo
 **Email**: hvemulapalli0313@my.msutexas.edu
-![Profile picture](harika.jpg)
+<img src="https://github.com/HarikaV03/3013-ALG-Vemulapalli/blob/main/harika.jpg" width="200">
 
