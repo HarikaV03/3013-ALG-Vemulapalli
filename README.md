@@ -3,6 +3,6 @@
 ## Contact info
 **Name**: Harika Vemulapalli
 **Repo**: 3013 Algorithms Repo
-**Email**: vemulapalliharika25@gmail.com
-![Alt Txt](https://github.com/HarikaV03/3013-ALG-Vemulapalli/blob/main/harika.jpg)
+**Email**: hvemulapalli0313@my.msutexas.edu
+![Profile picture](harika.jpg)
 
