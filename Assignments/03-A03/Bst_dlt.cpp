@@ -110,14 +110,14 @@ int main() {
     tree.insert(76);
     tree.insert(97);
     
-    cout << "BST before removal: ";
+    cout << "BST before deleting: ";
     tree.print();
     cout << endl;
     
     // Delete a random node
     tree.deleteNode(17);
     
-    cout << "BST after removing 17: ";
+    cout << "BST after deleting 17: ";
     tree.print();
     cout << endl;
 }
