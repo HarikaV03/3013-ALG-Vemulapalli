@@ -14,7 +14,7 @@ The tree is also printed in descending order, showing the largest values first.
 | Filename  | Description |   
 |-----------|-------------|
  | [main.cpp](./Bst_dlt/Bst_dlt/main.cpp)| C++ source file implementing BST operations |
- | [README.md]| Documentation for the project |
+ | README.md| Documentation for the project |
 ## Instructions
 ### 1. Clone the Repository
 ```bash
