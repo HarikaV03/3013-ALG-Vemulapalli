@@ -1,14 +1,4 @@
-<<<<<<< HEAD
-#  3013 Algorithms Repo  
-
-**Name:** Harika Vemulapalli   
-**Email:** hvemulapalli0313@my.msutexas.edu  
-=======
-  
-# Project Title: BST Deletion
-**Name**: Harika Vemulapalli
-
-## Project Description
+## Assignment Description
 In this project, I added a "deleteNode" function to the existing BST code. The function allows for deleting a node from the tree and handles the three cases:
 1. **Node has no children (Leaf Node)** → Simply remove the node.
 2. **Node has one child** → Replace the node with its child.
@@ -16,7 +6,7 @@ In this project, I added a "deleteNode" function to the existing BST code. The f
 
 The tree is also printed in descending order, showing the largest values first.
    
-## Project Files
+## Files
 | Filename  | Description |   
 |-----------|-------------|
  | [main.cpp](./Bst_dlt/Bst_dlt/main.cpp)| C++ source file implementing BST operations |
@@ -56,6 +46,4 @@ cd 3013-ALG-Vemulapalli/Assignments/03-A03/Bst_dlt/Bst_dlt
    ```sh  
     ./bst_program
    ```
->>>>>>> 251e84e (Removed unnecessary files and updated README)
 
-<img src="Harika.jpg" alt="My Picture" width="300">
