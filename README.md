@@ -1,7 +1,20 @@
+<<<<<<< HEAD
   
 # Project Title: BST Deletion
 **Name**: Harika Vemulapalli
 
+=======
+<<<<<<< HEAD
+#  3013 Algorithms Repo  
+
+**Name:** Harika Vemulapalli   
+**Email:** hvemulapalli0313@my.msutexas.edu  
+=======
+  
+# Project Title: BST Deletion
+**Name**: Harika Vemulapalli
+
+>>>>>>> c1736fc (Ensured Assignment folder is tracked)
 ## Project Description
 In this project, I added a "deleteNode" function to the existing BST code. The function allows for deleting a node from the tree and handles the three cases:
 1. **Node has no children (Leaf Node)** → Simply remove the node.
@@ -50,4 +63,8 @@ cd 3013-ALG-Vemulapalli/Assignments/03-A03/Bst_dlt/Bst_dlt
    ```sh  
     ./bst_program
    ```
+<<<<<<< HEAD
+=======
+>>>>>>> 251e84e (Removed unnecessary files and updated README)
+>>>>>>> c1736fc (Ensured Assignment folder is tracked)
 
